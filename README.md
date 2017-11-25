@@ -25,7 +25,7 @@ Start runing Spark scipt:
 ```
 spark-submit SparkDTest.py
 ```
-### Usage
+### Methodology
 There are four stages to build the recommend model:
 1. Divide the dataset into three parts: training_RDD, validation_RDD, test_RDD.
 2. Choose ranks to produce ALS models, then compare the result using validation_RDD.
