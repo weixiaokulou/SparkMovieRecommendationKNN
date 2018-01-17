@@ -1,4 +1,4 @@
-## LikeUberPosition
+## Movie Recommendation
 
 ### Tech in this project
 Spark, Neural Network(Deep Leaning) in Spark's mllib
